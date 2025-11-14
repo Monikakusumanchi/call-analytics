@@ -1,0 +1,5 @@
+streamlit
+pydub
+ffmpeg-python
+google-genai
+dotenv
